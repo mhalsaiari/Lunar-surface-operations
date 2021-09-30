@@ -1,7 +1,7 @@
-# Lunar-surface-operations
+# Lunar-surface-operations \n
 
-1- install XAMPP application and run Apache and MySql
-2- create database with table users 
+1- install XAMPP application and run Apache and MySql \n
+2- create database with table users \n
   {
   id,
   name,
